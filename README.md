@@ -2,8 +2,12 @@
 
 用 Python 在 Raspberry Pi 3（Linux）寫 BLE Central，與手機上的 Peripheral（GATT Server）通訊，並示範把 CCCD 設成 `0x0002`（Indication）。
 
-- 學號／姓名：＿＿＿＿＿＿
-- 日期：2026/10
+## Team Members
+- r15922131 — 莊凱皓
+- r15922162 — 王昱鈞
+
+## Implemented
+- Basic Problem
 
 ## 架構
 
